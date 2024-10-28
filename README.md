@@ -2,6 +2,8 @@
 
 使用 YOLOX 检测图片中的奶龙等目标。
 
+![输出效果图](./images/examples.png)
+
 ## 模型
 
 请前往 Releases 中下载模型。
