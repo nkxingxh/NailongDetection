@@ -13,3 +13,7 @@
 ```
 python onnx_inference.py -m "nailong_v2_m.onnx" -i "输入图片" -o "输出目录" -s 0.3 --input_shape 640,640
 ```
+
+## 声明
+
+本项目仅用作学习 YOLOX 模型训练与推理，且本项目没有任何承诺与保证。
