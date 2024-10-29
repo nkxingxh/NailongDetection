@@ -18,13 +18,13 @@
 python onnx_inference.py -m "nailong_v2_m.onnx" -i "输入图片" -o "输出目录" -s 0.3 --input_shape 640,640
 ```
 
-### [搭建API服务](https://github.com/nkxingxh/yolox-onnx-api-server)
+### 搭建API服务
 
 [nkxingxh/yolox-onnx-api-server](https://github.com/nkxingxh/yolox-onnx-api-server)
 
 [搭建API服务](https://github.com/nkxingxh/yolox-onnx-api-server)给其他程序调用。
 
-### [MiraiEz 图片过滤](https://github.com/nkxingxh/miraiez-plugins/blob/main/top.nkxingxh.miraiez.yolox.ImageFilter.php)
+### MiraiEz 图片过滤
 
 > 支持 mirai-api-http 的 PHP 机器人框架。
 > 方便、快速、高效地使用 PHP 编写你自己的 Bot。
@@ -62,7 +62,9 @@ python onnx_inference.py -m "nailong_v2_m.onnx" -i "输入图片" -o "输出目�
 ]
 ```
 
-### [nonebot-plugin-nailongremove](https://github.com/Refound-445/nonebot-plugin-nailongremove)
+### nonebot-plugin-nailongremove
+
+[Refound-445/nonebot-plugin-nailongremove](https://github.com/Refound-445/nonebot-plugin-nailongremove)
 
 > NailongRemove 是一款奶龙识别插件，可以识别群中的奶龙表情包并撤回该表情。
 
