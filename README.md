@@ -6,7 +6,7 @@
 
 ## 模型
 
-请前往 Releases 中下载模型。
+请前往 Releases 中下载模型。压缩包中的 `labels.txt` 为分类标签文件。
 
 ## 使用
 
@@ -38,7 +38,7 @@ python onnx_inference.py -m "nailong_v2_m.onnx" -i "输入图片" -o "输出目�
 修改配置中的 `classes` 部分即可指定目标类别。具体选项说明请查看生成的配置文件。
 
 ```json
-"classesDesc": "可以配置多个类别组"
+"classesDesc": "可以配置多个类别组",
 "classes": [
     {
         "classId": [1],
