@@ -87,7 +87,7 @@ python server.py -m nailong_v2.1_m.onnx -l labels.txt
 
 安装插件后, 修改配置中的 `NAILONG_MODEL` 为 `1` 即可。
 
-插件默认使用 `nailong_v2.1_m` 模型进行检测。
+插件默认使用 `nailong_v2.3_tiny` 模型进行检测。
 
 ## 声明
 
