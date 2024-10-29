@@ -47,7 +47,7 @@ python server.py -m nailong_v2.1_m.onnx -l labels.txt
 
 ### MiraiEz 图片过滤
 
-> 支持 mirai-api-http 的 PHP 机器人框架。
+> MiraiEz 是一个支持 mirai-api-http 的 PHP 机器人框架。
 > 方便、快速、高效地使用 PHP 编写你自己的 Bot。
 
 [群图片过滤插件](https://github.com/nkxingxh/miraiez-plugins/blob/main/top.nkxingxh.miraiez.yolox.ImageFilter.php)
@@ -92,6 +92,8 @@ python server.py -m nailong_v2.1_m.onnx -l labels.txt
 安装插件后, 修改配置中的 `NAILONG_MODEL` 为 `1` 即可。
 
 插件默认使用 `nailong_v2.3_tiny` 模型进行检测。
+
+如需更换模型, 使用下载的模型替换 `data/nailongremove/nailong.onnx` 即可。
 
 ## 声明
 
