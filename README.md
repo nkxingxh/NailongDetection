@@ -72,9 +72,9 @@ python server.py -m nailong_v2.1_m.onnx -l labels.txt
 
 > NailongRemove 是一款奶龙识别插件，可以识别群中的奶龙表情包并撤回该表情。
 
-安装插件后, 修改配置中的 `nailong_model:int=1` 即可。
+安装插件后, 修改配置中的 `NAILONG_MODEL` 为 `1` 即可。
 
-插件默认使用 `nailong_v2.1_m.onnx` 模型进行检测。
+插件默认使用 `nailong_v2.1_m` 模型进行检测。
 
 ## 声明
 
