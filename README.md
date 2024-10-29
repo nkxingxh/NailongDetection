@@ -38,18 +38,18 @@ python onnx_inference.py -m "nailong_v2_m.onnx" -i "输入图片" -o "输出目�
 修改配置中的 `classes` 部分即可指定目标类别。具体选项说明请查看生成的配置文件。
 
 ```json
+"classesDesc": "可以配置多个类别组"
 "classes": [
     {
         "classId": [1],
         "className": ["nailong"],
         "score": 0.7,
-        // 可以对每一组类别单独设置动作
+        "actionDesc": "可以对每一组类别单独设置动作",
         "action": {
             "recall": false,
             "reply": "拒绝唐龙",
         },
     },
-    // 可以配置多个类别组
     {
         "classId": [],
         "className": ["long"],
