@@ -24,6 +24,10 @@ python onnx_inference.py -m "nailong_v2_m.onnx" -i "输入图片" -o "输出目�
 
 [搭建API服务](https://github.com/nkxingxh/yolox-onnx-api-server)给其他程序调用。
 
+```
+python server.py -m nailong_v2.1_m.onnx -l labels.txt
+```
+
 ### MiraiEz 图片过滤
 
 > 支持 mirai-api-http 的 PHP 机器人框架。
@@ -73,5 +77,7 @@ python onnx_inference.py -m "nailong_v2_m.onnx" -i "输入图片" -o "输出目�
 插件默认使用 `nailong_v2.1_m.onnx` 模型进行检测。
 
 ## 声明
+
+NailongDetection 根据 AGPL-3.0 许可证进行许可，有关详细信息，请参阅 [LICENSE](./LICENSE) 文件。
 
 本项目仅用作学习 YOLOX 模型训练与推理，且本项目没有任何承诺与保证。
