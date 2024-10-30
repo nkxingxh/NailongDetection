@@ -14,7 +14,7 @@
 
 结果仅供参考。
 
-| 模型 | 尺寸 | mAP<sup>val<br>0.5:0.95 | AP<sup><br>nailong | 验证集版本 | 镜像地址 |
+| 模型 | 尺寸 | mAP<sup>val<br>0.5:0.95 | AP<sup><br>nailong | 评估验证集 | 镜像地址 |
 |------|-------|-------------------------------|--------------------------|--------------|-----------|
 | nailong_v2.3_m | 640,640 | 52.0 | 82.614 | v2.4 | [下载](https://one.nkxingxh.top/xyund1/static/NailongDetection/nailong_v2.3_m.onnx) |
 | nailong_v2.3_tiny | 416,416 | 51.7 | 68.940 | v2.3 | [下载](https://one.nkxingxh.top/xyund1/static/NailongDetection/nailong_v2.3_tiny.onnx) |
