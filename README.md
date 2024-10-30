@@ -1,6 +1,6 @@
 # NailongDetection
 
-使用 YOLOX 检测图片中的奶龙等目标。
+使用 YOLOX 检测图片中的**奶龙**、**动漫人物**、**龙图**等目标。
 
 ![输出效果图](./images/examples.png)
 
