@@ -1,5 +1,3 @@
-# NailongDetection
-
 <div align="center"><img src="images/logo.png" width="550"></div>
 
 ![输出效果图](./images/examples.png)
