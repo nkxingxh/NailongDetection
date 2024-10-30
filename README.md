@@ -1,8 +1,10 @@
 # NailongDetection
 
-使用 YOLOX 检测图片中的**奶龙**、**动漫风格人物**、**龙图**等目标。
+<div align="center"><img src="images/logo.png" width="550"></div>
 
 ![输出效果图](./images/examples.png)
+
+使用 YOLOX 检测图片中的**奶龙**、**动漫风格人物**、**龙图**等目标。
 
 [💦 加入QQ群 (978132437)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=fVZ60XVZ6_wLk98lP1JbrWz3uc3P6S-X&authKey=wIzFoJzUKrWzllsAuiF5FP7awwRgMmT455lv0ANnNY7CK4aIdslDfhKXWSvy4pJI&noverify=0&group_code=978132437)
 
