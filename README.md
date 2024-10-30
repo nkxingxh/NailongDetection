@@ -17,7 +17,7 @@
 | 模型 | 尺寸 | mAP<sup>val<br>0.5:0.95 | AP<sup><br>nailong | 验证集版本 | 镜像地址 |
 |------|-------|-------------------------------|--------------------------|--------------|-----------|
 | nailong_v2.3_m | 640,640 | 52.0 | 82.614 | v2.4 | [下载](https://one.nkxingxh.top/xyund1/static/NailongDetection/nailong_v2.3_m.onnx) |
-| nailong_v2.3_tiny | 416,416 | 51.7 | 68.940 | v2.3 | [下载](https://one.nkxingxh.top/xyund1/static/NailongDetection/nailong_v2.3_tiny.onnx)
+| nailong_v2.3_tiny | 416,416 | 51.7 | 68.940 | v2.3 | [下载](https://one.nkxingxh.top/xyund1/static/NailongDetection/nailong_v2.3_tiny.onnx) |
 | nailong_v2.2_m | 640,640 | 51.5 | 83.335 | v2.3 |
 | nailong_v2.1_m | 640,640 |
 | nailong_v2.0_m | 640,640 | 21.5 | 60.018 | v2.3 |
