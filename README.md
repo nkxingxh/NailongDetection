@@ -101,7 +101,7 @@ python server.py -m nailong_v2.1_m.onnx -l labels.txt
 
 ### 其他
 
-如果你的项目也使用了本模型, 可以打开 **Issue** 或者提交 **Pull request** 将你的项目添加在列表中。
+如果你的项目也使用了本模型, 可以打开 **Issue** 介绍你的项目并添加在列表中。
 
 ## 声明
 
