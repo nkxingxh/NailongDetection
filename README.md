@@ -6,6 +6,14 @@
 
 [💦 加入QQ群 (978132437)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=fVZ60XVZ6_wLk98lP1JbrWz3uc3P6S-X&authKey=wIzFoJzUKrWzllsAuiF5FP7awwRgMmT455lv0ANnNY7CK4aIdslDfhKXWSvy4pJI&noverify=0&group_code=978132437)
 
+你说上面那句话有个`等`字?
+
+![黄桃罐头](./images/htgt.png)
+
+*黄桃罐头*: **你好**!
+
+(正在测试中, 即将发布)
+
 ## 模型
 
 请前往 [Releases](https://github.com/nkxingxh/NailongDetection/releases) 中下载模型。`labels.txt` 为分类标签文件。
