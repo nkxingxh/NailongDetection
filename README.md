@@ -99,6 +99,10 @@ python server.py -m nailong_v2.1_m.onnx -l labels.txt
 
 插件默认将使用最新版本的 tiny 模型。
 
+### 其他
+
+如果你的项目也使用了本模型, 可以打开 **Issue** 或者提交 **Pull request** 将你的项目添加在列表中。
+
 ## 声明
 
 NailongDetection 根据 AGPL-3.0 许可证进行许可，有关详细信息，请参阅 [LICENSE](./LICENSE) 文件。
