@@ -16,7 +16,8 @@
 
 | 模型 | 尺寸 | mAP<sup>val<br>0.5:0.95 | AP<sup><br>nailong | 评估验证集 | 镜像地址 |
 |------|-------|-------------------------------|--------------------------|--------------|-----------|
-| nailong_v2.4_tiny | 416,416 | 48.6 | 70.523 | v2.5 |
+| nailong_v2.4_m | 640,640 | 48.3 | 71.763 | v2.5 |
+| nailong_v2.4_tiny | 416,416 | 48.5 | 65.682 | v2.5 |
 | nailong_v2.3_m | 640,640 | 52.0 | 82.614 | v2.4 | [下载](https://one.nkxingxh.top/xyund1/static/NailongDetection/nailong_v2.3_m.onnx) |
 | nailong_v2.3_tiny | 416,416 | 51.7 | 68.940 | v2.3 | [下载](https://one.nkxingxh.top/xyund1/static/NailongDetection/nailong_v2.3_tiny.onnx) |
 | nailong_v2.2_m | 640,640 | 51.5 | 83.335 | v2.3 |
@@ -25,7 +26,7 @@
 | nailong_v2.0_x_beta | 640,640 | 26.2 | 76.412 | v2.3 |
 | nailong_v1_s | 640,640 | 11.5 | 69.139 | v2.3 |
 
-<!-- | nailong_v2.4_m | 640,640 | 49.6 | 76.229 | v2.5 | -->
+<!-- | nailong_v2.5_tiny | 416,416 | 48.3 | 75.146 | v2.5 | -->
 
 ## 使用
 
